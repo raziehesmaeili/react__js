@@ -1,0 +1,481 @@
+{
+    "slider": [
+        {
+            "id": 1,
+            "img": "./src/Components/Images/b01-2.jpg"
+        },
+        {
+            "id": 2,
+            "img": "./src/Components/Images/b02-4.jpg"
+        },
+        {
+            "id": 3,
+            "img": "./src/Components/Images/b03.jpg"
+        },
+        {
+            "id": 4,
+            "img": "./src/Components/Images/b04.jpg"
+        }
+    ],
+    "homeslider": [
+        {
+            "id": 1,
+            "img": "./src/Components/Images/2.png",
+            "title": "محصولات پوستی",
+            "link": "/محصولات پوستی"
+        },
+        {
+            "id": 2,
+            "img": "./src/Components/Images/3.png",
+            "title": "لوازم آرایشی",
+            "link": "/لوازم آرایشی"
+        },
+        {
+            "id": 3,
+            "img": "./src/Components/Images/4.png",
+            "title": "محصولات مو",
+            "link": "/محصولات مو"
+        },
+        {
+            "id": 4,
+            "img": "./src/Components/Images/6.png",
+            "title": "تقویت کننده ها",
+            "link": "/تقویت کننده ها"
+        },
+        {
+            "id": 5,
+            "img": "./src/Components/Images/5.png",
+            "title": "محصولات بدن",
+            "link": "/محصولات بدن"
+        }
+    ],
+    "Homebilds": [
+        {
+            "id": 1,
+            "img": "./src/Components/Images/p1.jpeg"
+        },
+        {
+            "id": 2,
+            "img": "./src/Components/Images/p2.jpeg"
+        },
+        {
+            "id": 3,
+            "img": "./src/Components/Images/p3.jpg"
+        }
+    ],
+    "Bestseller": [
+        {
+            "id": 1,
+            "img": "./src/Components/Images/11.jpeg",
+            "title": "ماسک ورقه ای بایودنس مدل بیو کلاژن",
+            "discountPrice": "۲.۱۵۰.۰۰۰تومان",
+            "price": "۲.۰۹۹.۰۰۰تومان"
+        },
+        {
+            "id": 2,
+            "img": "/src/Components/Images/12.jpeg",
+            "title": "پچ ضد جوش پیمپل کوزاکس",
+            "discountPrice": "۴۵۰,۰۰۰تومان",
+            "price": "۳۱۰,۰۰۰تومان"
+        },
+        {
+            "id": 3,
+            "img": "/src/Components/Images/13.jpeg",
+            "title": "ماسک مو فینو",
+            "discountPrice": "۱,۴۰۰,۰۰۰تومان",
+            "price": "۱,۰۹۹,۰۰۰تومان"
+        },
+        {
+            "id": 4,
+            "img": "/src/Components/Images/14.jpeg",
+            "title": "پد آرایش پاک کن ایپک بسته ۷۰ عددی",
+            "discountPrice": "۱۵۰.۰۰۰تومان",
+            "price": "۹۹.۰۰۰تومان"
+        },
+        {
+            "id": 5,
+            "img": "/src/Components/Images/15.jpeg",
+            "title": "ماسک ورقه ای بایودنس هیدرا سرانول",
+            "discountPrice": "۲.۱۵۰.۰۰۰تومان",
+            "price": "۲.۰۹۹.۰۰۰تومان"
+        },
+        {
+            "id": 6,
+            "img": "/src/Components/Images/16.jpeg",
+            "title": "میسلار واتر بایودرما پوست حساس",
+            "discountPrice": "۹۹۵,۰۰۰تومان",
+            "price": "۷۷۰,۰۰۰تومان"
+        },
+        {
+            "id": 7,
+            "img": "/src/Components/Images/17.jpeg",
+            "title": "مکمل ویت مث پلاس افترایو",
+            "price": "۲.۰۹۹.۰۰۰تومان"
+        },
+        {
+            "id": 8,
+            "img": "/src/Components/Images/L12.jpeg",
+            "title": "کوشن قرمز تیر تیر",
+            "discountPrice": "۱,۸۸۰,۰۰۰تومان",
+            "price": "۱,۷۷۰,۰۰۰تومان"
+        },
+        {
+            "id": 9,
+            "img": "/src/Components/Images/19.jpeg",
+            "title": "مکمل مو پریورین",
+            "price":"۱۲,۶۶۰,۰۰۰تومان"
+        },
+        {
+            "id": 10,
+            "img": "/src/Components/Images/20.jpeg",
+            "title": "ماسک لب لانیژ",
+            "discountPrice": "۳۲۰,۰۰۰تومان",
+            "price": "۲۴۸,۰۰۰تومان"
+        },
+        {
+            "id": 11,
+            "img": "/src/Components/Images/21.jpeg",
+            "title": "مکمل فیتو",
+            "discountPrice": "۲.۱۰۰.۰۰۰تومان",
+            "price": "۱,۷۵۰,۰۰۰تومان"
+        },
+        {
+            "id": 12,
+            "img": "/src/Components/Images/22.jpeg",
+            "title": "کوکونات کلاژن ۱۸۰ عددی مای ویتامینز",
+            "discountPrice": "۲,۴۰۰,۰۰۰تومان",
+            "price": "۱,۷۵۰,۰۰۰تومان"
+        }
+       
+    ],
+    "Cardsone":[
+        {
+            "id": 1,
+            "img": "./src/Components/Images/C1.jpeg",
+            "title": "ماسک ورقه ای بایودنس مدل بیو کلاژن",
+            "discountPrice": "۲.۱۵۰.۰۰۰تومان",
+            "price": "۲.۰۹۹.۰۰۰تومان"
+        },
+        {
+            "id": 2,
+            "img": "/src/Components/Images/C2.jpeg",
+            "title": "پچ ضد جوش پیمپل کوزاکس",
+            "discountPrice": "۴۵۰,۰۰۰تومان",
+            "price": "۳۱۰,۰۰۰تومان"
+        },
+        {
+            "id": 3,
+            "img": "/src/Components/Images/C3.jpeg",
+            "title": "ماسک مو فینو",
+            "discountPrice": "۱,۴۰۰,۰۰۰تومان",
+            "price": "۱,۰۹۹,۰۰۰تومان"
+        },
+        {
+            "id": 4,
+            "img": "/src/Components/Images/C4.jpeg",
+            "title": "پد آرایش پاک کن ایپک بسته ۷۰ عددی",
+            "discountPrice": "۱۵۰.۰۰۰تومان",
+            "price": "۹۹.۰۰۰تومان"
+        },
+        {
+            "id": 5,
+            "img": "/src/Components/Images/C5.jpeg",
+            "title": "ماسک ورقه ای بایودنس هیدرا سرانول",
+            "discountPrice": "۲.۱۵۰.۰۰۰تومان",
+            "price": "۲.۰۹۹.۰۰۰تومان"
+        },
+        {
+            "id": 6,
+            "img": "/src/Components/Images/C6.jpeg",
+            "title": "میسلار واتر بایودرما پوست حساس",
+            "discountPrice": "۹۹۵,۰۰۰تومان",
+            "price": "۷۷۰,۰۰۰تومان"
+        },
+        {
+            "id": 7,
+            "img": "/src/Components/Images/C7.jpeg",
+            "title": "مکمل ویت مث پلاس افترایو",
+            "price": "۲.۰۹۹.۰۰۰تومان"
+        },
+        {
+            "id": 8,
+            "img": "/src/Components/Images/C8.jpeg",
+            "title": "کوشن قرمز تیر تیر",
+            "discountPrice": "۱,۸۸۰,۰۰۰تومان",
+            "price": "۱,۷۷۰,۰۰۰تومان"
+        }
+    ],
+    "Cardstwo":[
+        {
+            "id": 1,
+            "img": "/src/Components/Images/C4.jpeg",
+            "title": "پد آرایش پاک کن ایپک بسته ۷۰ عددی",
+            "discountPrice": "۱۵۰.۰۰۰تومان",
+            "price": "۹۹.۰۰۰تومان"
+        },
+        {
+            "id": 2,
+            "img": "/src/Components/Images/13.jpeg",
+            "title": "ماسک مو فینو",
+            "discountPrice": "۱,۴۰۰,۰۰۰تومان",
+            "price": "۱,۰۹۹,۰۰۰تومان"
+        },
+        {
+            "id": 3,
+            "img": "/src/Components/Images/12.jpeg",
+            "title": "پچ ضد جوش پیمپل کوزاکس",
+            "discountPrice": "۴۵۰,۰۰۰تومان",
+            "price": "۳۱۰,۰۰۰تومان"
+        },
+        {
+            "id":4,
+            "img":"/src/Components/Images/D1.jpeg",
+            "title":"بالم لب براق مرطوب کننده لبلو",
+            "discountPrice":"۴۱۰,۰۰۰تومان",
+            "price":"۳۴۵,۰۰۰تومان"
+        },
+        {
+            "id":5,
+            "img": "/src/Components/Images/11.jpeg",
+            "title": "ماسک ورقه ای بایودنس مدل بیو کلاژن",
+            "discountPrice": "۲.۱۵۰.۰۰۰تومان",
+            "price": "۲.۰۹۹.۰۰۰تومان"
+        },
+        {
+            "id": 6,
+            "img": "/src/Components/Images/15.jpeg",
+            "title": "ماسک ورقه ای بایودنس هیدرا سرانول",
+            "discountPrice": "۲.۱۵۰.۰۰۰تومان",
+            "price": "۲.۰۹۹.۰۰۰تومان"
+        },
+        {
+            "id": 7,
+            "img": "/src/Components/Images/s1.jpeg",
+            "title": "استیک وزگیر مو آی کی تی",
+            "discountPrice": "۵۵۰,۰۰۰تومان",
+            "price": "۴۱۰,۰۰۰تومان"
+        },
+       {
+        "id": 8,
+        "img": "/src/Components/Images/b1.jpg",
+        "title": "سرم تقویت کننده مژه ماوالا",
+        "discountPrice": "۱,۲۰۰,۰۰۰تومان",
+        "price": "۹۹۸,۰۰۰تومان"
+       }
+    ],
+    "Hygieneproducts": [
+        {
+            "id": 1,
+            "defaultImage": "/src/Components/Images/H1.jpeg",
+            "hoverImage": "/src/Components/Images/H2.jpeg",
+            "title": "ضد آفتاب مجیک فیوژن واتر spf50 ایزدین",
+            "discountPrice": "۲.۱۵۰.۰۰۰تومان",
+            "price": "۲.۰۹۹.۰۰۰تومان"
+        },
+        {
+            "id": 2,
+            "defaultImage": "/src/Components/Images/H3.jpeg",
+            "hoverImage": "/src/Components/Images/H4.jpg",
+            "title": "سرم ویتامین سی ویشی",
+            "discountPrice": "۲.۱۵۰.۰۰۰تومان",
+            "price": "۲.۰۹۹.۰۰۰تومان"
+        },
+        {
+            "id": 3,
+            "defaultImage": "/src/Components/Images/H5.jpg",
+            "hoverImage": "/src/Components/Images/H6.png",
+            "title": "سرم و کرم دور چشم",
+            "discountPrice": "۲.۵۰۰.۰۰۰تومان",
+            "price": "۱.۸۶۰.۰۰۰تومان"
+        },
+        {
+            "id": 4,
+            "defaultImage": "/src/Components/Images/H7.png",
+            "hoverImage": "/src/Components/Images/H8.webp",
+            "title": "ضد آفتاب استیکی سنتلا",
+            "discountPrice": "۱.۶۰۰.۰۰۰تومان",
+            "price": "۱.۱۲۰.۰۰۰تومان"
+        }
+    ],
+    "cosmetics": [
+        {
+            "id": 1,
+            "defaultImage": "/src/Components/Images/L16.jpeg",
+            "hoverImage": "/src/Components/Images/L17.webp",
+            "img1":"/src/Components/Images/L16.2.webp",
+            "img2": "/src/Components/Images/L16.jpeg",
+            "title": "هایلایتر فنتی بیوتی",
+            "discountPrice": "۶,۱۰۰,۰۰۰تومان",
+            "price": "۴,۹۹۹,۰۰۰تومان",
+            "text":"پیگمنت بالایی دارد و تنها با کمی استفاده به خوبی پوست را پوشش می دهد؛ همچنین فرمولاسیون آن به گونه ای است که با تماس با پوست ذوب شده در نتیجه جلوه ای طبیعی تر داشته و حالت کیکی و پودری ایجاد نمی کند."
+        },
+        {
+            "id": 2,
+            "defaultImage": "/src/Components/Images/L2.jpeg",
+            "hoverImage": "/src/Components/Images/L3.jpg",
+            "img1":"/src/Components/Images/L3.1.jpeg",
+            "img2": "/src/Components/Images/L2.jpeg",
+            "title": "رژ لب فنتی بیوتی",
+            "discountPrice": "۵,۱۰۰,۰۰۰تومان",
+            "price": "۴,۱۵۰,۰۰۰تومان",
+            "text":"رژ لب های جذاب فنتی بیوتی، رنگ هایی بسیار زیبا دارد که برای تمامی رنگ های پوست مناسب است.این رژ لب مایع، بسیار سبک و در عین حال با ماندگاری بالا می باشد و روی لب مات می شود.فینیش و رنگ های این محصول به طوری جذاب و زیباست که همه ی نگاه ها را به خود جذب می کند"
+        },
+        {
+            "id": 3,
+            "defaultImage": "/src/Components/Images/L4.jpeg",
+            "hoverImage": "/src/Components/Images/L5.jpg",
+            "img1":"/src/Components/Images/L4.1.jpeg",
+            "img2":"/src/Components/Images/L4.2.jpeg",
+            "title": "رژ لب مایع براق تری دی هیدرا کیکو میلانو",
+            "discountPrice": "۲,۴۰۰,۰۰۰تومان",
+            "price": "۱,۹۶۰,۰۰۰تومان",
+            "text":"بافت سبک و درخشان لیپ گلاس کیکو میلانو لب‌های شما را حجیم‌تر نشان می‌دهد. با وجود این بافت سبک، ماندگاری بسیار بالایی دارد. به همین دلیل با داشتن این محصول از خرید محصولات دیگر بی‌نیاز می‌شوید. بدنه و درب فلزی شیک با یک نماد حک شده‌ی کیکو میلانو KK روی آن، نمای لوکس و شیکی را ارائه می‌دهد."
+        },
+        {
+            "id": 4,
+            "defaultImage": "/src/Components/Images/L6.jpeg",
+            "hoverImage": "/src/Components/Images/L7.jpeg",
+            "img2": "/src/Components/Images/L6.jpeg",
+            "title": " شمیم هایلایتر صورت و بدن هدی بیوتی",
+            "discountPrice": "۴,۵۰۰,۰۰۰تومان",
+            "price": "۳,۹۰۰,۰۰۰تومان",
+            "text":"شیمر شاین یا هایلایتر مایع بدن از محصولات هدی بیوتی اصل می باشد که دارای بافتی مایع و شاین می باشد که برای یکدست کردن، شاینی، زیبا و درخشان نمودن بدن استفاده می شود."
+        },
+        {
+            "id": 5,
+            "defaultImage": "/src/Components/Images/L8.jpeg",
+            "hoverImage": "/src/Components/Images/L9.jpg",
+            "title": "کانسیلر تارت shape tape",
+            "img1":"/src/Components/Images/L8.1.jpg",
+            "img2": "/src/Components/Images/L8.jpeg",
+            "discountPrice": "۲,۹۹۹,۰۰۰تومان",
+            "price": "۲,۴۷۰,۰۰۰تومان",
+            "text":"کانسیلر شیپ تیپ تارت یکی از بهترین و محبوب ترین کانسیلر‌های خارجی در سراسر دنیا است که کاور بسیار بالا، فینیش مات و در عین حال طبیعی روی پوست داشته و تا 16‌ساعت بدون هیچگونه تغییر رنگ و بافت روی پوست باقی می‌ماند. این کانسیلر به خوبی پوست زیر چشم را روشن و یکدست کرده و ضد آب و تعریق است. تا 12‌ساعت در خطوط و چین و چروک‌های پلک فرو نرفته و به همین دلیل به عنوان یک زیر ساز مناسب برای قبل از سایه چشم نیز قابل استفاده است"
+        },
+        {
+            "id": 6,
+            "defaultImage": "/src/Components/Images/L10.jpeg",
+            "hoverImage": "/src/Components/Images/L11.jpg",
+            "img1":"/src/Components/Images/L10.1.jpeg",
+            "img2": "/src/Components/Images/L10.jpeg",
+            "title": "کرم پودر مک STUDIO FIX FLUID",
+            "discountPrice": "۳,۹۰۰,۰۰۰تومان",
+            "price": "۳,۱۰۰,۰۰۰تومان",
+            "text":"کرم پودر مک مدل استودیو فیکس studio fix fluid یکی از بهترین کرم پودرهای خارجی می باشد که برای انواع پوست خشک، چرب، مختلط و نرمال مناسب است. این محصول با ماندگاری 24 ساعته به هیچ عنوان در طولانی مدت دچار تغییر، تیرگی و ماسیدگی یا به اصطلاح حالت کیکی نمی شود. جلوه نهایی کرم پودر مک روی پوست مات بوده و ضد آب می باشد. این محصول پوشانندگی زیادی داشته و چین و چروک صورت را کاور می کند."
+        },
+        {
+            "id": 7,
+            "defaultImage": "/src/Components/Images/L12.jpeg",
+            "hoverImage": "/src/Components/Images/L13.jpg",
+            "img1": "/src/Components/Images/L12.1.jpg",
+            "img2": "/src/Components/Images/L12.jpeg",
+            "title": "کوشن قرمز تیر تیر",
+            "discountPrice": "۱,۸۸۰,۰۰۰تومان",
+            "price": "۱,۷۷۵,۰۰۰تومان",
+            "text":"این کوشن از برند معروف تیر تیر، از محصولات هیجان انگیر و پر سروصدای این روزها است که دارای قدرت پوشانندگی بسیار بالا می‌باشد و همه نواقص از جمله لک‌ها، ناهمواری‌ها و منافذ را پوشش داده و پوست صاف و یکدستی را به شما هدیه می‌دهد همچنین برای کاور بیشتر می‌توان لایه‌های بیشتری از این محصول را استفاده کرد. این محصول در تمام طول استفاده پوست را مرطوب نگه داشته و فینیشی نیمه مات و طبیعی روی پوست به نمایش می‌گذارد."
+        },
+        {
+            "id": 8,
+            "defaultImage": "/src/Components/Images/L14.jpeg",
+            "hoverImage": "/src/Components/Images/L15.webp",
+            "img1": "/src/Components/Images/L14.1.webp",
+            "img2": "/src/Components/Images/L14.jpeg",
+            "title": "مداد ابرو بنفیت",
+            "discountPrice": "۱,۹۵۰,۰۰۰تومان",
+            "price": "۴,۰۳۰,۰۰۰تومان",
+            "text":"این مداد ابرو هاشوری با ظرافت تمام و ظاهری بسیار طبیعی ابرو‌های شما را خوش حالت می کند همچنین ضد‌‌آب بوده و در اثر تعریق، رطوبت، شنا و … ریزش ندارد و دارای ماندگاری 12 ساعته می‌باشد.این محصول حاوی ترکیبات گیاهی مغذی بوده که علاوه بر زیبایی ابرو‌ها باعث تقویت و تغذیه آن‌ها نیز می‌شود و به هیچ عنوان باعث ریزش ابرو‌ها نمی‌شود."
+        }
+    ],
+    "hairproducts": [
+        {
+            "id": 1,
+            "defaultImage": "/src/Components/Images/s1.jpeg",
+            "hoverImage": "/src/Components/Images/s2.jpeg",
+            "title": "استیک وزگیر مو آی کی تی",
+            "discountPrice": "۵۵۰,۰۰۰تومان",
+            "price": "۴۱۰,۰۰۰تومان"
+        },
+        {
+            "id": 2,
+            "defaultImage": "/src/Components/Images/s3.jpeg",
+            "hoverImage": "/src/Components/Images/s4.jpeg",
+            "title": "روغن موی ترمیم کننده و تقوبت کننده فینو شیسیدو",
+            "discountPrice": "۱,۵۰۰,۰۰۰تومان",
+            "price": "۱,۲۳۰,۰۰۰تومان"
+        },
+        {
+            "id": 3,
+            "defaultImage": "/src/Components/Images/s5.jpeg",
+            "hoverImage": "/src/Components/Images/s6.jpg",
+            "title": "شامپو ضخیم کننده تار مو حاوی بیوتین و کلازن او جی ایکس",
+            "discountPrice": "۸۵۰,۰۰۰تومان",
+            "price": "۶۱۰,۰۰۰تومان"
+        }
+    ],
+    "boosters": [
+        {
+            "id": 1,
+            "defaultImage": "/src/Components/Images/b1.jpg",
+            "hoverImage": "/src/Components/Images/b1.jpg",
+            "title": "سرم تقویت کننده مژه ماوالا",
+            "discountPrice": "۱,۲۰۰,۰۰۰تومان",
+            "price": "۹۹۸,۰۰۰تومان",
+            "text": "تقویت و تغذیه کننده\nافزایش طول مژه\nافزایش رشد مژه\nافزایش ضخامت مژه\nپرپشت‌کننده و حجم‌دهنده\nافزایش لطافت و نرمی مژه\nافزایش سلامت و شادابی چشم\nحاوی ویتامین‌ها و پروتئین‌ها\nحاوی 96% مواد با منشا طبیعی\nقابل استفاده روی ابروها و مژه‌ها",
+            "size": " 10 میلی لیتر",
+            "country": "سوییس"
+        },
+        {
+            "id": 2,
+            "defaultImage": "/src/Components/Images/b2.jpeg",
+            "hoverImage": "/src/Components/Images/b2.jpeg",
+            "title": "سرم مو محافظ حرارت هات استریک شیگلم",
+            "discountPrice": "۱,۴۰۰,۰۰۰تومان",
+            "price": "۱,۱۵۸,۰۰۰تومان",
+            "text": "محافظت‌کننده مو در برابر حرارت و آسیب های محیطی\nحاوی روغن جوجوبا، کاملیا و دانه آفتابگردان\nحاوی کلاژن جهت تغذیه و تقویت مو\nجلوگیری از خشکی بیش از حد مو\nجلوگیری از ایجاد موخوره\nمناسب برای تمامی انواع مو\nبافتی سبک و جذب سریع",
+            "size": "۵۰، ۱۰۰ میلی لیتر",
+            "country": "سنگاپور"
+        }
+    ],
+    "body": [
+        {
+            "id": 1,
+            "defaultImage": "/src/Components/Images/O1.jpeg",
+            "hoverImage": "/src/Components/Images/O1.jpeg",
+            "title": "پماد دایووبت",
+            "discountPrice": "۴,۱۰۰,۰۰۰تومان",
+            "price": "۳,۶۰۰,۰۰۰تومان"
+        },
+        {
+            "id": 2,
+            "defaultImage": "/src/Components/Images/O2.jpeg",
+            "hoverImage": "/src/Components/Images/O3.jpg",
+            "title": "روغن ترمیم کننده پوست بایو اویل",
+            "discountPrice": "۱,۶۲۰,۰۰۰تومان",
+            "price": "۱,۱۳۰,۰۰۰تومان"
+        },
+        {
+            "id": 3,
+            "defaultImage": "/src/Components/Images/O4.jpg",
+            "hoverImage": "/src/Components/Images/O5.jpg",
+            "title": "ژل روشن کننده کشاله ران و زیر بغل مارگریت",
+            "discountPrice": "۴۷۰,۰۰۰تومان",
+            "price": "۳۷۷,۰۰۰تومان"
+        },
+        {
+            "id": 4,
+            "defaultImage": "/src/Components/Images/O6.jpeg",
+            "hoverImage": "/src/Components/Images/O6.jpeg",
+            "title": "لوسیون بدن آلوِیه ورا وازلین",
+            "discountPrice": "۵۰۰,۰۰۰تومان",
+            "price": "۳۹۹,۰۰۰تومان"
+        },
+        {
+            "id": 5,
+            "defaultImage": "/src/Components/Images/O7.jpeg",
+            "hoverImage": "/src/Components/Images/O7.jpeg",
+            "title": "لوسیون بدن کاکاءو وازلین",
+            "discountPrice": "۶۵۰,۰۰۰تومان",
+            "price": "۴۳۸,۰۰۰تومان"
+        }
+    ]
+}
